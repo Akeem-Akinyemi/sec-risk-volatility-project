@@ -7,3 +7,5 @@ __pycache__/
 access_token
 .kaggle/
 .env
+notebooks/risk_factors_txt/
+*.xlsx
