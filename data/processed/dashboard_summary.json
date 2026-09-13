@@ -1,0 +1,17 @@
+{
+  "n_companies": 31,
+  "n_comparisons": 123,
+  "correlation_text_change": 0.08246672244964837,
+  "correlation_word_count": 0.20118700960294192,
+  "r_squared": 0.040476212832974236,
+  "p_value": 0.02565749480273028,
+  "slope": 0.004754473656290941,
+  "median_word_count_change": 8.447613823368075,
+  "p90_word_count_change": 29.181139441750013,
+  "excluded_companies": [
+    "JWN",
+    "GPS",
+    "WBA",
+    "BBBY"
+  ]
+}
