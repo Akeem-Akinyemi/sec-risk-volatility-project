@@ -26,7 +26,7 @@ Bed Bath & Beyond's numbers tell a good story on their own, their risk section g
 ## Running it
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Akeem-Akinyemi/sec-risk-volatility-project.git
 cd sec-risk-volatility-project
 pip install -r requirements.txt
 streamlit run app/dashboard.py
