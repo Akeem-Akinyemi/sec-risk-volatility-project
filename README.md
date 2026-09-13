@@ -38,6 +38,6 @@ Python, SEC EDGAR (via edgartools), yfinance, pandas, scikit-learn, scipy, Strea
 
 ## A couple of honest caveats
 
-Four companies (Nordstrom, Gap, Walgreens, Bed Bath & Beyond) got dropped from the volatility side of the analysis — they were later delisted, taken private, or went bankrupt, and I couldn't find historical pricing for them through the free data sources I tried. Their risk-language data is still in there, just not matched to a stock outcome.
+Four companies (Nordstrom, Gap, Walgreens, Bed Bath & Beyond) got dropped from the volatility side of the analysis, they were later delisted, taken private, or went bankrupt, and I couldn't find historical pricing for them through the free data sources I tried. Their risk-language data is still in there, just not matched to a stock outcome.
 
 Also worth saying plainly: R² of 0.04 means this alone isn't a trading strategy. It's a real, statistically significant pattern, not a strong one.
